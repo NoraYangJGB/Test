@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EDF1CB60-BDBF-4E84-B528-DF0857BEB28C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D6119007-3C15-4DAE-9CBA-A7678B251D77",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA52524E-F0D7-4BE2-8A3D-A73CA6077BD5",
+    "height": 24,
+    "width": 108,
+    "x": 120,
+    "y": 389
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "513C4C7F-7AEE-499A-A3F3-71BD0B3AC0C0",
+      "overrideName": "6A8E493A-6594-4572-A933-AC1F1FABB0FE_stringValue",
+      "value": "線上簽約"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53258E4A-CB45-498F-A0A3-6D303E0FBA76",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8067662E-0DF6-418B-B94A-85EA5E6A78AD",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

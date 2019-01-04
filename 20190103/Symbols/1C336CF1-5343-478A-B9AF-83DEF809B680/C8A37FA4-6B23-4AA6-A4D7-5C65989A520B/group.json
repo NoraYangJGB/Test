@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8A37FA4-6B23-4AA6-A4D7-5C65989A520B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D6E92AF4-1BF9-41F5-B4CA-3F87B7EABA78",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9ADE1980-C222-42A5-B38B-D1E1B05C04E4",
+    "height": 56,
+    "width": 120,
+    "x": 1198,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E74468DD-4589-45AF-87CB-7644B26584D7"
+    },
+    {
+      "class": "text",
+      "id": "52477EED-446F-4815-A8C1-E51C5E1A1BE0"
+    }
+  ],
+  "name": "Padding Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 62,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C4FED3B7-1713-4C70-A954-4A5DC1DB2FCE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "padding": {
+          "bottom": 16,
+          "left": 24,
+          "modelID": "viewPadding_86ebfdf3-f816-408b-95a9-b98124a9f440",
+          "model_class": "ADModelViewPadding",
+          "model_version": 0.1,
+          "right": 24,
+          "top": 16
+        }
+      }
+    }
+  }
+}

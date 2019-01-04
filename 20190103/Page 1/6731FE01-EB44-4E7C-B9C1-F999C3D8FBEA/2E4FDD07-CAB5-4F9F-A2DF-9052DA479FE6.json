@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E4FDD07-CAB5-4F9F-A2DF-9052DA479FE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DD89C90-B2EC-449B-BF3C-3E9976FF1534",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5CF08CA6-099F-40D7-9ADA-5381FF8A2A8D",
+    "height": 266,
+    "width": 466,
+    "x": 606,
+    "y": 2743
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Feedback Copy 8",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A952524-5E60-4437-9057-417FE0ED3428",
+      "overrideName": "1EF85BFF-8002-49F2-9253-F3BCFC080784_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c4c337cf0e6bd95d0bcb87e6caeb99b3142b6b18.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA4FA44C-0489-4827-A08C-6BCB2924ADF3",
+      "overrideName": "57E4EE5F-C672-48D8-BE0C-74D8E7C31889_stringValue",
+      "value": "信義房屋"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "17B29DC4-6299-4158-87CC-2E7D81ED2A72",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A1083D4-8C62-43A2-81F5-C7A81294AF85",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
