@@ -209,10 +209,6 @@
     },
     {
       "class": "group",
-      "id": "0F104EC9-B0E7-4A38-9690-088C99D2E834"
-    },
-    {
-      "class": "group",
       "id": "31A863BE-D329-4C5D-88EB-9FCC51B035AD"
     },
     {
@@ -230,7 +226,7 @@
     "gutterWidth": 20,
     "guttersOutside": false,
     "horizontalOffset": 240,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 24,
     "rowHeightMultiplication": 5,
     "totalWidth": 1440
