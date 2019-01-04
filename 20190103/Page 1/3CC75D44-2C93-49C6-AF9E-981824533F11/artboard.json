@@ -1,0 +1,268 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9998798966407776,
+    "green": 1,
+    "red": 0.9999018311500549
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3CC75D44-2C93-49C6-AF9E-981824533F11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4253,
+    "width": 1920,
+    "x": 0,
+    "y": 0
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EDA60ADE-6DE9-49FC-A890-8C351D74C8BB"
+    },
+    {
+      "class": "rectangle",
+      "id": "80908B4E-BE50-45DA-888D-D0D48B206AF6"
+    },
+    {
+      "class": "rectangle",
+      "id": "007B4E31-AA96-4999-BBAE-4A6A2B675500"
+    },
+    {
+      "class": "group",
+      "id": "F7710CE6-6CBF-4427-877F-7C3B40A4F729"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE06FF5C-80F0-439F-BE62-86D5760AAFBF"
+    },
+    {
+      "class": "text",
+      "id": "E777EB57-5B60-4BAE-AEC0-76FB3EFF0EB8"
+    },
+    {
+      "class": "text",
+      "id": "42C96769-456F-4110-85CD-E1931DB60073"
+    },
+    {
+      "class": "text",
+      "id": "9935C97D-DD6D-49D9-A7B9-89D201E7F954"
+    },
+    {
+      "class": "text",
+      "id": "933D1E32-E199-4F74-B9E3-01E159BEDEC1"
+    },
+    {
+      "class": "text",
+      "id": "BB755D12-67D6-4415-A057-0EEF289AC4FC"
+    },
+    {
+      "class": "shapePath",
+      "id": "B17A135C-5971-4719-A8E5-B5B1A57F77C3"
+    },
+    {
+      "class": "shapePath",
+      "id": "04C9EBBD-AFD0-4FA6-8140-DDE17964188B"
+    },
+    {
+      "class": "shapePath",
+      "id": "87975F1C-DAC2-440C-A4AC-6B7AD7F676AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56CCBF5A-40EA-4A6B-9E63-CCEC7105060A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE47165B-0BD4-4864-858F-06B655803A95"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD21642E-8064-4AAF-8AE8-AE920966D2AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18A73B5F-2C73-457D-AA69-4C0BA9C33E37"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C03B3815-9A7A-44FE-98AB-C9A475DA17E8"
+    },
+    {
+      "class": "text",
+      "id": "84CA93D3-1F01-42EB-8C88-473DB10A61AD"
+    },
+    {
+      "class": "text",
+      "id": "9444BCE6-3DD2-4A3F-B417-BB18281C613F"
+    },
+    {
+      "class": "text",
+      "id": "2AAC7F08-BFBD-483A-AAF4-0C05F1FE8682"
+    },
+    {
+      "class": "text",
+      "id": "67119911-2747-4A22-8AFF-0F746AFE4AF9"
+    },
+    {
+      "class": "text",
+      "id": "F0EB9EED-3F0D-4CDD-B4EE-BE1BF0AFA33F"
+    },
+    {
+      "class": "text",
+      "id": "648D6E71-C568-44BA-928C-9C14E07A585A"
+    },
+    {
+      "class": "group",
+      "id": "0D9D54D0-A319-487F-9CB3-20E3AA872B61"
+    },
+    {
+      "class": "group",
+      "id": "D17CDD3F-89C6-47A6-8C8A-C3C9B43B3EC5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6194F9EA-D009-4F57-AA58-612E9927AFA1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C02F5BDF-6680-4B68-A415-29947BB836CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "679729A8-190F-4E7D-A9E8-5D4D173DCCEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E19D03D9-CABB-40BD-9E70-0D18358763B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE160113-AB1C-4DBD-89A7-4B5E6A9F7CF4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5625EA40-32BC-46F2-A18B-7AB114AEA205"
+    },
+    {
+      "class": "group",
+      "id": "3F10C497-28D3-447C-96E3-81264326EC84"
+    },
+    {
+      "class": "group",
+      "id": "CD671380-863A-4EDA-B3C0-55AC6073757A"
+    },
+    {
+      "class": "group",
+      "id": "140B266E-0507-4D4F-B847-A3AA47DB8A36"
+    },
+    {
+      "class": "group",
+      "id": "144FA11C-854D-4F88-94EC-2C9B6D382463"
+    },
+    {
+      "class": "group",
+      "id": "E7D8FAA9-05C1-412B-ABA5-F0B96E53DD77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43996B3A-E1AF-439A-84A2-DE53B101F2A8"
+    },
+    {
+      "class": "group",
+      "id": "0F104EC9-B0E7-4A38-9690-088C99D2E834"
+    },
+    {
+      "class": "group",
+      "id": "31A863BE-D329-4C5D-88EB-9FCC51B035AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27C8E12E-5824-4B40-8A64-DDB2ED1DFECA"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 40.83333333333334,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": 240,
+    "isEnabled": true,
+    "numberOfColumns": 24,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1440
+  },
+  "name": "1",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      1080,
+      2160,
+      3240,
+      4320
+    ]
+  }
+}

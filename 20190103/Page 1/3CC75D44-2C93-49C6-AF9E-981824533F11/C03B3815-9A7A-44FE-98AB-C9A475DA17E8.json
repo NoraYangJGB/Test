@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C03B3815-9A7A-44FE-98AB-C9A475DA17E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB1C58AE-E182-4F80-B6D1-AE37A85264A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F610FB82-81DE-49BE-BFAE-8B0318E19C6E",
+    "height": 288,
+    "width": 345,
+    "x": 1274,
+    "y": 1085
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feature copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "00B5A4EE-3989-493D-B619-66DA7B63ABF3",
+      "overrideName": "7990CDA7-76C0-4B98-9BDC-41BC16CDAEC4_stringValue",
+      "value": "修繕管理"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0AE38B72-5B66-4D47-ADD1-BFB9A0FEBDE0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A76A2800-4564-4DD4-9334-8FB660DA19B7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

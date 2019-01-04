@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE160113-AB1C-4DBD-89A7-4B5E6A9F7CF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5213566F-85F6-4E9E-8A0E-491DD5D7E4CE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A74B1E5-2DA3-4359-A579-5B84188398A2",
+    "height": 202,
+    "width": 466,
+    "x": 1213,
+    "y": 2417
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Feedback Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15A87540-8110-49D8-BD7D-1AD20B8313A6",
+      "overrideName": "078688EC-7DB0-4562-A029-C58E0CC33329_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3977559ad9656be8491e442c30c49aa136e29958.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F41CD7D3-228F-428F-BED6-F82FA1C0AAF1",
+      "overrideName": "848DA3E5-F7D9-48E5-B907-C3D27E393D77_stringValue",
+      "value": "二房東"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B062DB5-1E95-4EE6-B9FB-09FEA746A3D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6F086406-2CBD-4DCD-B5A7-32DDF260360F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

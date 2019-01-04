@@ -1,0 +1,112 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0F104EC9-B0E7-4A38-9690-088C99D2E834",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 696,
+    "width": 347,
+    "x": 1213,
+    "y": 3269
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AC7BDAAD-05FD-461B-989D-6737FC53F324"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "609F75DA-807B-4E03-9B32-821231DA4232"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65C5D688-BBBE-430C-B221-61E54638B658"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97AD7C53-6A3D-437E-88BE-82C7C0B90988"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A87BFBD0-3579-4BF8-BEF9-58B120A9B594"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "359EB846-B53E-4C08-8F76-B64500CA686D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "77670F65-AE86-45E4-B4DA-5C40F3CF6F06"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB6D082B-4517-48C6-8FD4-5E95D7D03E16"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F8BA2FD-A3AD-4ECE-8F2F-6E51E9BE0889"
+    },
+    {
+      "class": "rectangle",
+      "id": "ADB0384B-2DC9-4C0C-8062-44D52726538C"
+    },
+    {
+      "class": "rectangle",
+      "id": "166498B6-0D34-4DDE-8756-E3E327931F55"
+    },
+    {
+      "class": "rectangle",
+      "id": "4111358C-FA12-4DDB-AD97-A475DEE59B0A"
+    },
+    {
+      "class": "text",
+      "id": "9C98F217-97E8-4993-AB71-717879D1BCEF"
+    },
+    {
+      "class": "text",
+      "id": "835C5C5A-4EA6-4E16-8C5A-9E832B58E7F9"
+    },
+    {
+      "class": "group",
+      "id": "43828D8E-3FB0-4B86-9649-51D8BDCE9586"
+    }
+  ],
+  "name": "card copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

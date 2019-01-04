@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F10C497-28D3-447C-96E3-81264326EC84",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 92.78752436647174,
+    "width": 100,
+    "x": 1214,
+    "y": 1517
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "51DF09A4-2CE4-42DC-B5D9-3AF44D942044"
+    },
+    {
+      "class": "shapePath",
+      "id": "11E7DDC5-3D2A-4B37-805A-09EAECE8B0A1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CDE19920-FFC4-40A6-8F02-4166478B00BE"
+    }
+  ],
+  "name": "hand",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 92.78752,
+            "enabled": 1,
+            "modelID": "constraint_0d57c8a2-86c3-4643-9f57-42224202810e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 100
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_4c8bac28-7ae5-423d-9fd2-86057ce09154",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
