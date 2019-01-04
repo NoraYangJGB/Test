@@ -114,7 +114,7 @@
           "green": 0.8768335459183674,
           "red": 0.8768335459183674
         },
-        "fillType": 0,
+        "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
           "_ref": "images/0a8c78938d6882d923de69e4c86ce2ff643c755e.pdf",
